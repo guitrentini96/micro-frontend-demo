@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  
+}
+
+.appbar{
+  width: 200px;
+  min-height: 100vh;
+  font-size: 30px;
+  background-color: #282c34;
+  align-items: center;
+
+  ul {
+    list-style-type: none;
+  }
+  li{
+    padding-top: 20px;
+  }
+  .Link {
+    color: white;
+    text-decoration: none;
+  }
+}
